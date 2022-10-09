@@ -1,0 +1,17 @@
+{
+  "name": "ndonge/etl",
+  "description": "Extract Transform Load",
+  "type": "project",
+  "authors": [
+    {
+      "name": "josedomingos919",
+      "email": "josedomingos919@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "src\\": "src/"
+    }
+  }
+}

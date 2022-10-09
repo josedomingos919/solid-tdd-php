@@ -1,0 +1,19 @@
+{
+  "name": "ndonge/poligonos",
+  "type": "project",
+  "authors": [
+    {
+      "name": "josedomingos919",
+      "email": "josedomingos919@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "src\\": "src/"
+    }
+  },
+  "scripts": {
+    "start": "php -S localhost:9000"
+  }
+}
