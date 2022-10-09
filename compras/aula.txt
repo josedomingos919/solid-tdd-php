@@ -1,0 +1,7 @@
+composer dumpoutoload -o : recarregar libs
+---------------------------------------------------
+| para executar o teste:			  |
+| vendor\bin\phpunit.bat test\ItemTest.php        |
+---------------------------------------------------
+
+Aula 11
